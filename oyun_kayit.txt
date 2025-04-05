@@ -1,0 +1,7 @@
+
+========== YENİ OYUN BAŞLADI ==========
+Maksimum Hamle Sayısı: 4
+=======================================
+
+Oyun başladı! Lütfen 3 kart seçin ve 'Hamle Yap' butonuna tıklayın.
+Oyun başladı! Lütfen 3 kart seçin ve 'Hamle Yap' butonuna tıklayın.
