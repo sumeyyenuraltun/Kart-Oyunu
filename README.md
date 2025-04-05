@@ -1,0 +1,1 @@
+Proje, nesne yönelimli mimari temel alınarak, kartların puanlarına dayalı bir oyun olarak geliştirilmiştir.Projedeki amaçlara proje dokümanından, yapılan proje için görsellere ve diğer bilgilere ise proje raporundan ulaşabilirsiniz.
